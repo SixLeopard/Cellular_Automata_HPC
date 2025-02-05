@@ -77,10 +77,10 @@ Uses the GPU, since the most GPUs have  thousands of cores instead of just a few
 - storing the state in a run length encoded format to see if the added overhead of having to deal with the encoding would be faster then the time it takes to check redundant cells
 
 # Credits
-Author: Jamie Westerhout
-OpenMP: https://www.openmp.org/
-MPI: https://www.open-mpi.org/
-CUDA: https://developer.nvidia.com/cuda-toolkit
+- Author: Jamie Westerhout
+- OpenMP: https://www.openmp.org/
+- MPI: https://www.open-mpi.org/
+- CUDA: https://developer.nvidia.com/cuda-toolkit
 
 #Note
 this is recreation of the orignal repositry
