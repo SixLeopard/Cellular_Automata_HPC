@@ -1,0 +1,30 @@
+#!/bin/bash -l
+#
+#SBATCH --job-name=COSC3500_Project
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=4
+#SBATCH --gres gpu:0
+#SBATCH --time=0-00:41:00
+#You could add these to your bashrc if you wanted
+module load compiler-rt/latest
+module add mkl/latest
+module add mpi/openmpi-x86_64
+module load cuda/11.1
+
+#I would have expected the module loads to add these, but apparently not
+export PATH=/opt/local/stow/cuda-11.1/bin:$PATH
+export PATH=/usr/lib64/openmpi/bin:$PATH
+
+hostname
+#"map-by node" (assigns processes per node. i.e. to make sure they're running on separate nodes, not all on the same node)
+#"bind-to none" (for whatever reason, by default mpiexec will lock to a single core (i.e. single-threaded), bind-to none means the mpi process is free to use whatever cores it wants)
+time timeout 5m mpiexec -n 1 -map-by node -bind-to none ./bin/Cellular_Automata -m array -g 100 -f resources/universalturingmachine.life -n 20000
+time timeout 5m mpiexec -n 1 -map-by node -bind-to none ./bin/Cellular_Automata -m array -g 100 -f resources/turingmachine.life -n 10000
+time timeout 5m mpiexec -n 1 -map-by node -bind-to none ./bin/Cellular_Automata -m array -g 100 -f resources/turingmachine.life -n 5000
+time timeout 5m mpiexec -n 1 -map-by node -bind-to none ./bin/Cellular_Automata -m array -g 100 -f resources/sawtooth.life -n 1000
+time timeout 5m mpiexec -n 1 -map-by node -bind-to none ./bin/Cellular_Automata -m array -g 100 -f resources/ArrayGlider-100.life -n 750
+time timeout 5m mpiexec -n 1 -map-by node -bind-to none ./bin/Cellular_Automata -m array -g 100 -f resources/ArrayGlider-100.life -n 500
+time timeout 5m mpiexec -n 1 -map-by node -bind-to none ./bin/Cellular_Automata -m array -g 100 -f resources/ArrayGlider-100.life -n 250
+time timeout 5m mpiexec -n 1 -map-by node -bind-to none ./bin/Cellular_Automata -m array -g 100 -f resources/ArrayGlider-100.life -n 10

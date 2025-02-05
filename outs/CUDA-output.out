@@ -1,0 +1,525 @@
+vgpu10-0.compute.eait.uq.edu.au
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 12800
+|| Generations: 1000
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/universalturingmachine.life
+======================================================
+started saving intial state at Sun Oct 29 15:53:13 2023
+finished saving intial state at Sun Oct 29 15:53:22 2023
+======================================================
+started computation at Sun Oct 29 15:53:22 2023
+======================================================
+started copying to GPU memory Thu Jan  1 10:00:00 1970
+finished copying to GPU memory Sun Oct 29 15:53:24 2023
+======================================================
+| (10/1000):   elapsed time: 0.0923971s
+| (20/1000):   elapsed time: 0.183937s
+| (30/1000):   elapsed time: 0.275447s
+| (40/1000):   elapsed time: 0.36746s
+| (50/1000):   elapsed time: 0.460158s
+| (60/1000):   elapsed time: 0.552858s
+| (70/1000):   elapsed time: 0.645639s
+| (80/1000):   elapsed time: 0.736938s
+| (90/1000):   elapsed time: 0.828176s
+| (100/1000):   elapsed time: 0.920306s
+| (110/1000):   elapsed time: 1.01117s
+| (120/1000):   elapsed time: 1.10252s
+| (130/1000):   elapsed time: 1.19357s
+| (140/1000):   elapsed time: 1.28547s
+| (150/1000):   elapsed time: 1.37691s
+| (160/1000):   elapsed time: 1.46869s
+| (170/1000):   elapsed time: 1.56065s
+| (180/1000):   elapsed time: 1.65285s
+| (190/1000):   elapsed time: 1.74531s
+| (200/1000):   elapsed time: 1.83595s
+| (210/1000):   elapsed time: 1.92873s
+| (220/1000):   elapsed time: 2.02122s
+| (230/1000):   elapsed time: 2.11213s
+| (240/1000):   elapsed time: 2.20318s
+| (250/1000):   elapsed time: 2.29407s
+| (260/1000):   elapsed time: 2.38656s
+| (270/1000):   elapsed time: 2.47815s
+| (280/1000):   elapsed time: 2.5712s
+| (290/1000):   elapsed time: 2.66343s
+| (300/1000):   elapsed time: 2.75558s
+| (310/1000):   elapsed time: 2.84679s
+| (320/1000):   elapsed time: 2.93922s
+| (330/1000):   elapsed time: 3.0319s
+| (340/1000):   elapsed time: 3.12331s
+| (350/1000):   elapsed time: 3.21556s
+| (360/1000):   elapsed time: 3.3073s
+| (370/1000):   elapsed time: 3.39998s
+| (380/1000):   elapsed time: 3.49144s
+| (390/1000):   elapsed time: 3.58399s
+| (400/1000):   elapsed time: 3.67609s
+| (410/1000):   elapsed time: 3.76878s
+| (420/1000):   elapsed time: 3.86153s
+| (430/1000):   elapsed time: 3.9531s
+| (440/1000):   elapsed time: 4.04519s
+| (450/1000):   elapsed time: 4.13678s
+| (460/1000):   elapsed time: 4.22937s
+| (470/1000):   elapsed time: 4.32044s
+| (480/1000):   elapsed time: 4.41368s
+| (490/1000):   elapsed time: 4.50532s
+| (500/1000):   elapsed time: 4.59653s
+| (510/1000):   elapsed time: 4.68847s
+| (520/1000):   elapsed time: 4.78056s
+| (530/1000):   elapsed time: 4.87278s
+| (540/1000):   elapsed time: 4.96422s
+| (550/1000):   elapsed time: 5.05549s
+| (560/1000):   elapsed time: 5.14802s
+| (570/1000):   elapsed time: 5.23942s
+| (580/1000):   elapsed time: 5.33091s
+| (590/1000):   elapsed time: 5.42171s
+| (600/1000):   elapsed time: 5.5136s
+| (610/1000):   elapsed time: 5.60588s
+| (620/1000):   elapsed time: 5.69797s
+| (630/1000):   elapsed time: 5.79009s
+| (640/1000):   elapsed time: 5.88283s
+| (650/1000):   elapsed time: 5.97504s
+| (660/1000):   elapsed time: 6.06608s
+| (670/1000):   elapsed time: 6.16346s
+| (680/1000):   elapsed time: 6.25528s
+| (690/1000):   elapsed time: 6.34685s
+| (700/1000):   elapsed time: 6.43952s
+| (710/1000):   elapsed time: 6.53062s
+| (720/1000):   elapsed time: 6.62231s
+| (730/1000):   elapsed time: 6.71438s
+| (740/1000):   elapsed time: 6.80533s
+| (750/1000):   elapsed time: 6.89733s
+| (760/1000):   elapsed time: 6.98921s
+| (770/1000):   elapsed time: 7.08096s
+| (780/1000):   elapsed time: 7.1728s
+| (790/1000):   elapsed time: 7.26526s
+| (800/1000):   elapsed time: 7.35739s
+| (810/1000):   elapsed time: 7.44907s
+| (820/1000):   elapsed time: 7.54166s
+| (830/1000):   elapsed time: 7.63327s
+| (840/1000):   elapsed time: 7.7254s
+| (850/1000):   elapsed time: 7.81798s
+| (860/1000):   elapsed time: 7.91007s
+| (870/1000):   elapsed time: 8.00197s
+| (880/1000):   elapsed time: 8.09509s
+| (890/1000):   elapsed time: 8.18751s
+| (900/1000):   elapsed time: 8.27934s
+| (910/1000):   elapsed time: 8.3722s
+| (920/1000):   elapsed time: 8.4643s
+| (930/1000):   elapsed time: 8.55635s
+| (940/1000):   elapsed time: 8.64885s
+| (950/1000):   elapsed time: 8.74212s
+| (960/1000):   elapsed time: 8.83289s
+| (970/1000):   elapsed time: 8.92503s
+| (980/1000):   elapsed time: 9.01653s
+| (990/1000):   elapsed time: 9.10824s
+======================================================
+started copying from gpu memory to cpu memory Sun Oct 29 15:53:24 2023
+finished copying from gpu memory to cpu memory Sun Oct 29 15:53:34 2023
+======================================================
+finished computation at Sun Oct 29 15:53:34 2023
+total elapsed time: 11.5857s
+======================================================
+started saving output at Sun Oct 29 15:53:34 2023
+finished saving output at Sun Oct 29 15:53:43 2023
+======================================================
+
+real	0m34.680s
+user	0m31.815s
+sys	0m0.956s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 2000
+|| Generations: 10000
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/turingmachine.life
+======================================================
+started saving intial state at Sun Oct 29 15:53:44 2023
+finished saving intial state at Sun Oct 29 15:53:44 2023
+======================================================
+started computation at Sun Oct 29 15:53:44 2023
+======================================================
+started copying to GPU memory Thu Jan  1 10:00:00 1970
+finished copying to GPU memory Sun Oct 29 15:53:44 2023
+======================================================
+| (100/10000):   elapsed time: 0.0194568s
+| (200/10000):   elapsed time: 0.0387684s
+| (300/10000):   elapsed time: 0.0580049s
+| (400/10000):   elapsed time: 0.0773143s
+| (500/10000):   elapsed time: 0.0966191s
+| (600/10000):   elapsed time: 0.115918s
+| (700/10000):   elapsed time: 0.135209s
+| (800/10000):   elapsed time: 0.154556s
+| (900/10000):   elapsed time: 0.173852s
+| (1000/10000):   elapsed time: 0.193089s
+| (1100/10000):   elapsed time: 0.212361s
+| (1200/10000):   elapsed time: 0.231633s
+| (1300/10000):   elapsed time: 0.251093s
+| (1400/10000):   elapsed time: 0.270553s
+| (1500/10000):   elapsed time: 0.289819s
+| (1600/10000):   elapsed time: 0.309085s
+| (1700/10000):   elapsed time: 0.328349s
+| (1800/10000):   elapsed time: 0.347621s
+| (1900/10000):   elapsed time: 0.366998s
+| (2000/10000):   elapsed time: 0.38646s
+| (2100/10000):   elapsed time: 0.40573s
+| (2200/10000):   elapsed time: 0.424966s
+| (2300/10000):   elapsed time: 0.444234s
+| (2400/10000):   elapsed time: 0.463543s
+| (2500/10000):   elapsed time: 0.48297s
+| (2600/10000):   elapsed time: 0.502243s
+| (2700/10000):   elapsed time: 0.521554s
+| (2800/10000):   elapsed time: 0.540856s
+| (2900/10000):   elapsed time: 0.560204s
+| (3000/10000):   elapsed time: 0.579469s
+| (3100/10000):   elapsed time: 0.598737s
+| (3200/10000):   elapsed time: 0.618354s
+| (3300/10000):   elapsed time: 0.637621s
+| (3400/10000):   elapsed time: 0.656922s
+| (3500/10000):   elapsed time: 0.676194s
+| (3600/10000):   elapsed time: 0.695433s
+| (3700/10000):   elapsed time: 0.714838s
+| (3800/10000):   elapsed time: 0.734217s
+| (3900/10000):   elapsed time: 0.753473s
+| (4000/10000):   elapsed time: 0.77274s
+| (4100/10000):   elapsed time: 0.792003s
+| (4200/10000):   elapsed time: 0.811281s
+| (4300/10000):   elapsed time: 0.830544s
+| (4400/10000):   elapsed time: 0.850115s
+| (4500/10000):   elapsed time: 0.869388s
+| (4600/10000):   elapsed time: 0.888667s
+| (4700/10000):   elapsed time: 0.907964s
+| (4800/10000):   elapsed time: 0.927243s
+| (4900/10000):   elapsed time: 0.946502s
+| (5000/10000):   elapsed time: 0.96585s
+| (5100/10000):   elapsed time: 0.985207s
+| (5200/10000):   elapsed time: 1.00451s
+| (5300/10000):   elapsed time: 1.02381s
+| (5400/10000):   elapsed time: 1.04308s
+| (5500/10000):   elapsed time: 1.06235s
+| (5600/10000):   elapsed time: 1.08171s
+| (5700/10000):   elapsed time: 1.10101s
+| (5800/10000):   elapsed time: 1.12032s
+| (5900/10000):   elapsed time: 1.13963s
+| (6000/10000):   elapsed time: 1.15894s
+| (6100/10000):   elapsed time: 1.17823s
+| (6200/10000):   elapsed time: 1.19752s
+| (6300/10000):   elapsed time: 1.21701s
+| (6400/10000):   elapsed time: 1.23628s
+| (6500/10000):   elapsed time: 1.25555s
+| (6600/10000):   elapsed time: 1.27481s
+| (6700/10000):   elapsed time: 1.29405s
+| (6800/10000):   elapsed time: 1.31344s
+| (6900/10000):   elapsed time: 1.33285s
+| (7000/10000):   elapsed time: 1.35212s
+| (7100/10000):   elapsed time: 1.37139s
+| (7200/10000):   elapsed time: 1.39066s
+| (7300/10000):   elapsed time: 1.40994s
+| (7400/10000):   elapsed time: 1.42936s
+| (7500/10000):   elapsed time: 1.44869s
+| (7600/10000):   elapsed time: 1.46798s
+| (7700/10000):   elapsed time: 1.48724s
+| (7800/10000):   elapsed time: 1.50678s
+| (7900/10000):   elapsed time: 1.52605s
+| (8000/10000):   elapsed time: 1.54531s
+| (8100/10000):   elapsed time: 1.56458s
+| (8200/10000):   elapsed time: 1.58384s
+| (8300/10000):   elapsed time: 1.60316s
+| (8400/10000):   elapsed time: 1.62258s
+| (8500/10000):   elapsed time: 1.64182s
+| (8600/10000):   elapsed time: 1.66111s
+| (8700/10000):   elapsed time: 1.68036s
+| (8800/10000):   elapsed time: 1.69963s
+| (8900/10000):   elapsed time: 1.71896s
+| (9000/10000):   elapsed time: 1.7385s
+| (9100/10000):   elapsed time: 1.75777s
+| (9200/10000):   elapsed time: 1.77702s
+| (9300/10000):   elapsed time: 1.79643s
+| (9400/10000):   elapsed time: 1.81571s
+| (9500/10000):   elapsed time: 1.83497s
+| (9600/10000):   elapsed time: 1.85424s
+| (9700/10000):   elapsed time: 1.87349s
+| (9800/10000):   elapsed time: 1.89281s
+| (9900/10000):   elapsed time: 1.91208s
+======================================================
+started copying from gpu memory to cpu memory Sun Oct 29 15:53:44 2023
+finished copying from gpu memory to cpu memory Sun Oct 29 15:53:46 2023
+======================================================
+finished computation at Sun Oct 29 15:53:46 2023
+total elapsed time: 2.06063s
+======================================================
+started saving output at Sun Oct 29 15:53:46 2023
+finished saving output at Sun Oct 29 15:53:46 2023
+======================================================
+
+real	0m2.753s
+user	0m2.479s
+sys	0m0.156s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 1000
+|| Generations: 20000
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/sawtooth.life
+======================================================
+started saving intial state at Sun Oct 29 15:53:46 2023
+finished saving intial state at Sun Oct 29 15:53:47 2023
+======================================================
+started computation at Sun Oct 29 15:53:47 2023
+======================================================
+started copying to GPU memory Thu Jan  1 10:00:00 1970
+finished copying to GPU memory Sun Oct 29 15:53:47 2023
+======================================================
+| (200/20000):   elapsed time: 0.0104975s
+| (400/20000):   elapsed time: 0.0209638s
+| (600/20000):   elapsed time: 0.0313702s
+| (800/20000):   elapsed time: 0.0417553s
+| (1000/20000):   elapsed time: 0.052117s
+| (1200/20000):   elapsed time: 0.062503s
+| (1400/20000):   elapsed time: 0.0728502s
+| (1600/20000):   elapsed time: 0.0832445s
+| (1800/20000):   elapsed time: 0.093577s
+| (2000/20000):   elapsed time: 0.104118s
+| (2200/20000):   elapsed time: 0.114561s
+| (2400/20000):   elapsed time: 0.125109s
+| (2600/20000):   elapsed time: 0.135503s
+| (2800/20000):   elapsed time: 0.145828s
+| (3000/20000):   elapsed time: 0.156167s
+| (3200/20000):   elapsed time: 0.166497s
+| (3400/20000):   elapsed time: 0.176904s
+| (3600/20000):   elapsed time: 0.187249s
+| (3800/20000):   elapsed time: 0.197622s
+| (4000/20000):   elapsed time: 0.207987s
+| (4200/20000):   elapsed time: 0.218547s
+| (4400/20000):   elapsed time: 0.229195s
+| (4600/20000):   elapsed time: 0.2396s
+| (4800/20000):   elapsed time: 0.250142s
+| (5000/20000):   elapsed time: 0.260527s
+| (5200/20000):   elapsed time: 0.270833s
+| (5400/20000):   elapsed time: 0.28121s
+| (5600/20000):   elapsed time: 0.291522s
+| (5800/20000):   elapsed time: 0.301928s
+| (6000/20000):   elapsed time: 0.312271s
+| (6200/20000):   elapsed time: 0.322658s
+| (6400/20000):   elapsed time: 0.333015s
+| (6600/20000):   elapsed time: 0.343655s
+| (6800/20000):   elapsed time: 0.354098s
+| (7000/20000):   elapsed time: 0.364506s
+| (7200/20000):   elapsed time: 0.374921s
+| (7400/20000):   elapsed time: 0.385368s
+| (7600/20000):   elapsed time: 0.395822s
+| (7800/20000):   elapsed time: 0.406241s
+| (8000/20000):   elapsed time: 0.416862s
+| (8200/20000):   elapsed time: 0.427241s
+| (8400/20000):   elapsed time: 0.437606s
+| (8600/20000):   elapsed time: 0.447987s
+| (8800/20000):   elapsed time: 0.458375s
+| (9000/20000):   elapsed time: 0.469077s
+| (9200/20000):   elapsed time: 0.47945s
+| (9400/20000):   elapsed time: 0.489803s
+| (9600/20000):   elapsed time: 0.500185s
+| (9800/20000):   elapsed time: 0.510549s
+| (10000/20000):   elapsed time: 0.520955s
+| (10200/20000):   elapsed time: 0.531296s
+| (10400/20000):   elapsed time: 0.541673s
+| (10600/20000):   elapsed time: 0.551961s
+| (10800/20000):   elapsed time: 0.562296s
+| (11000/20000):   elapsed time: 0.572886s
+| (11200/20000):   elapsed time: 0.583299s
+| (11400/20000):   elapsed time: 0.593861s
+| (11600/20000):   elapsed time: 0.604215s
+| (11800/20000):   elapsed time: 0.614601s
+| (12000/20000):   elapsed time: 0.624982s
+| (12200/20000):   elapsed time: 0.635341s
+| (12400/20000):   elapsed time: 0.645729s
+| (12600/20000):   elapsed time: 0.656096s
+| (12800/20000):   elapsed time: 0.666449s
+| (13000/20000):   elapsed time: 0.676841s
+| (13200/20000):   elapsed time: 0.687199s
+| (13400/20000):   elapsed time: 0.697811s
+| (13600/20000):   elapsed time: 0.708267s
+| (13800/20000):   elapsed time: 0.718856s
+| (14000/20000):   elapsed time: 0.729219s
+| (14200/20000):   elapsed time: 0.739626s
+| (14400/20000):   elapsed time: 0.749986s
+| (14600/20000):   elapsed time: 0.760402s
+| (14800/20000):   elapsed time: 0.771145s
+| (15000/20000):   elapsed time: 0.781547s
+| (15200/20000):   elapsed time: 0.791918s
+| (15400/20000):   elapsed time: 0.802321s
+| (15600/20000):   elapsed time: 0.812699s
+| (15800/20000):   elapsed time: 0.823091s
+| (16000/20000):   elapsed time: 0.83342s
+| (16200/20000):   elapsed time: 0.843776s
+| (16400/20000):   elapsed time: 0.854136s
+| (16600/20000):   elapsed time: 0.864712s
+| (16800/20000):   elapsed time: 0.875146s
+| (17000/20000):   elapsed time: 0.8856s
+| (17200/20000):   elapsed time: 0.896164s
+| (17400/20000):   elapsed time: 0.906521s
+| (17600/20000):   elapsed time: 0.91688s
+| (17800/20000):   elapsed time: 0.927217s
+| (18000/20000):   elapsed time: 0.937529s
+| (18200/20000):   elapsed time: 0.947826s
+| (18400/20000):   elapsed time: 0.958194s
+| (18600/20000):   elapsed time: 0.968553s
+| (18800/20000):   elapsed time: 0.978911s
+| (19000/20000):   elapsed time: 0.989365s
+| (19200/20000):   elapsed time: 0.999759s
+| (19400/20000):   elapsed time: 1.01032s
+| (19600/20000):   elapsed time: 1.02073s
+| (19800/20000):   elapsed time: 1.03107s
+======================================================
+started copying from gpu memory to cpu memory Sun Oct 29 15:53:47 2023
+finished copying from gpu memory to cpu memory Sun Oct 29 15:53:48 2023
+======================================================
+finished computation at Sun Oct 29 15:53:48 2023
+total elapsed time: 1.12947s
+======================================================
+started saving output at Sun Oct 29 15:53:48 2023
+finished saving output at Sun Oct 29 15:53:48 2023
+======================================================
+
+real	0m1.424s
+user	0m1.196s
+sys	0m0.137s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 20
+|| Generations: 100000
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/ArrayGlider-100.life
+======================================================
+started saving intial state at Sun Oct 29 15:53:48 2023
+finished saving intial state at Sun Oct 29 15:53:48 2023
+======================================================
+started computation at Sun Oct 29 15:53:48 2023
+======================================================
+started copying to GPU memory Thu Jan  1 10:00:00 1970
+finished copying to GPU memory Sun Oct 29 15:53:48 2023
+======================================================
+| (1000/100000):   elapsed time: 0.0142508s
+| (2000/100000):   elapsed time: 0.0285318s
+| (3000/100000):   elapsed time: 0.0428269s
+| (4000/100000):   elapsed time: 0.0571729s
+| (5000/100000):   elapsed time: 0.0713887s
+| (6000/100000):   elapsed time: 0.0854438s
+| (7000/100000):   elapsed time: 0.0996009s
+| (8000/100000):   elapsed time: 0.113855s
+| (9000/100000):   elapsed time: 0.127953s
+| (10000/100000):   elapsed time: 0.142095s
+| (11000/100000):   elapsed time: 0.156595s
+| (12000/100000):   elapsed time: 0.171173s
+| (13000/100000):   elapsed time: 0.185265s
+| (14000/100000):   elapsed time: 0.199411s
+| (15000/100000):   elapsed time: 0.213655s
+| (16000/100000):   elapsed time: 0.227757s
+| (17000/100000):   elapsed time: 0.242007s
+| (18000/100000):   elapsed time: 0.25616s
+| (19000/100000):   elapsed time: 0.270301s
+| (20000/100000):   elapsed time: 0.284787s
+| (21000/100000):   elapsed time: 0.299148s
+| (22000/100000):   elapsed time: 0.313452s
+| (23000/100000):   elapsed time: 0.327631s
+| (24000/100000):   elapsed time: 0.342287s
+| (25000/100000):   elapsed time: 0.356503s
+| (26000/100000):   elapsed time: 0.370675s
+| (27000/100000):   elapsed time: 0.384761s
+| (28000/100000):   elapsed time: 0.398887s
+| (29000/100000):   elapsed time: 0.413187s
+| (30000/100000):   elapsed time: 0.427338s
+| (31000/100000):   elapsed time: 0.441797s
+| (32000/100000):   elapsed time: 0.456196s
+| (33000/100000):   elapsed time: 0.470651s
+| (34000/100000):   elapsed time: 0.484783s
+| (35000/100000):   elapsed time: 0.498974s
+| (36000/100000):   elapsed time: 0.51332s
+| (37000/100000):   elapsed time: 0.527493s
+| (38000/100000):   elapsed time: 0.541764s
+| (39000/100000):   elapsed time: 0.555981s
+| (40000/100000):   elapsed time: 0.57036s
+| (41000/100000):   elapsed time: 0.58479s
+| (42000/100000):   elapsed time: 0.599058s
+| (43000/100000):   elapsed time: 0.613409s
+| (44000/100000):   elapsed time: 0.627573s
+| (45000/100000):   elapsed time: 0.641822s
+| (46000/100000):   elapsed time: 0.656002s
+| (47000/100000):   elapsed time: 0.670124s
+| (48000/100000):   elapsed time: 0.68448s
+| (49000/100000):   elapsed time: 0.698796s
+| (50000/100000):   elapsed time: 0.713323s
+| (51000/100000):   elapsed time: 0.727398s
+| (52000/100000):   elapsed time: 0.741645s
+| (53000/100000):   elapsed time: 0.755855s
+| (54000/100000):   elapsed time: 0.770041s
+| (55000/100000):   elapsed time: 0.784224s
+| (56000/100000):   elapsed time: 0.798406s
+| (57000/100000):   elapsed time: 0.812978s
+| (58000/100000):   elapsed time: 0.82721s
+| (59000/100000):   elapsed time: 0.84155s
+| (60000/100000):   elapsed time: 0.855854s
+| (61000/100000):   elapsed time: 0.87012s
+| (62000/100000):   elapsed time: 0.884559s
+| (63000/100000):   elapsed time: 0.898749s
+| (64000/100000):   elapsed time: 0.913005s
+| (65000/100000):   elapsed time: 0.927074s
+| (66000/100000):   elapsed time: 0.941681s
+| (67000/100000):   elapsed time: 0.955968s
+| (68000/100000):   elapsed time: 0.970168s
+| (69000/100000):   elapsed time: 0.984436s
+| (70000/100000):   elapsed time: 0.99869s
+| (71000/100000):   elapsed time: 1.01297s
+| (72000/100000):   elapsed time: 1.02705s
+| (73000/100000):   elapsed time: 1.04155s
+| (74000/100000):   elapsed time: 1.05592s
+| (75000/100000):   elapsed time: 1.07022s
+| (76000/100000):   elapsed time: 1.08443s
+| (77000/100000):   elapsed time: 1.0987s
+| (78000/100000):   elapsed time: 1.11306s
+| (79000/100000):   elapsed time: 1.12719s
+| (80000/100000):   elapsed time: 1.14137s
+| (81000/100000):   elapsed time: 1.15555s
+| (82000/100000):   elapsed time: 1.16999s
+| (83000/100000):   elapsed time: 1.18442s
+| (84000/100000):   elapsed time: 1.19863s
+| (85000/100000):   elapsed time: 1.21284s
+| (86000/100000):   elapsed time: 1.22716s
+| (87000/100000):   elapsed time: 1.24151s
+| (88000/100000):   elapsed time: 1.25572s
+| (89000/100000):   elapsed time: 1.26987s
+| (90000/100000):   elapsed time: 1.28406s
+| (91000/100000):   elapsed time: 1.29823s
+| (92000/100000):   elapsed time: 1.31246s
+| (93000/100000):   elapsed time: 1.32664s
+| (94000/100000):   elapsed time: 1.34117s
+| (95000/100000):   elapsed time: 1.35562s
+| (96000/100000):   elapsed time: 1.3697s
+| (97000/100000):   elapsed time: 1.38388s
+| (98000/100000):   elapsed time: 1.39806s
+| (99000/100000):   elapsed time: 1.41221s
+======================================================
+started copying from gpu memory to cpu memory Sun Oct 29 15:53:48 2023
+finished copying from gpu memory to cpu memory Sun Oct 29 15:53:49 2023
+======================================================
+finished computation at Sun Oct 29 15:53:49 2023
+total elapsed time: 1.4983s
+======================================================
+started saving output at Sun Oct 29 15:53:49 2023
+finished saving output at Sun Oct 29 15:53:49 2023
+======================================================
+
+real	0m1.630s
+user	0m1.424s
+sys	0m0.127s

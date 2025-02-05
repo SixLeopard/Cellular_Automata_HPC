@@ -1,0 +1,1007 @@
+Loading compiler-rt version 2023.1.0
+Loading mkl version 2023.1.0
+Loading tbb version 2021.9.0
+
+Loading mkl/latest
+  Loading requirement: tbb/latest
+vgpu10-2
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 20000
+|| Generations: 100
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/universalturingmachine.life
+======================================================
+started saving intial state at Mon Oct 30 14:51:00 2023
+finished saving intial state at Mon Oct 30 14:51:16 2023
+======================================================
+started computation at Mon Oct 30 14:51:16 2023
+======================================================
+| (1/100):   elapsed time: 0.443522s
+| (2/100):   elapsed time: 0.884126s
+| (3/100):   elapsed time: 1.32296s
+| (4/100):   elapsed time: 1.76264s
+| (5/100):   elapsed time: 2.20271s
+| (6/100):   elapsed time: 2.64463s
+| (7/100):   elapsed time: 3.08288s
+| (8/100):   elapsed time: 3.5231s
+| (9/100):   elapsed time: 3.96193s
+| (10/100):   elapsed time: 4.40212s
+| (11/100):   elapsed time: 4.84164s
+| (12/100):   elapsed time: 5.28213s
+| (13/100):   elapsed time: 5.72221s
+| (14/100):   elapsed time: 6.16263s
+| (15/100):   elapsed time: 6.60107s
+| (16/100):   elapsed time: 7.04304s
+| (17/100):   elapsed time: 7.48626s
+| (18/100):   elapsed time: 7.92562s
+| (19/100):   elapsed time: 8.36531s
+| (20/100):   elapsed time: 8.8049s
+| (21/100):   elapsed time: 9.24462s
+| (22/100):   elapsed time: 9.68398s
+| (23/100):   elapsed time: 10.1231s
+| (24/100):   elapsed time: 10.5624s
+| (25/100):   elapsed time: 11.0008s
+| (26/100):   elapsed time: 11.4401s
+| (27/100):   elapsed time: 11.878s
+| (28/100):   elapsed time: 12.3171s
+| (29/100):   elapsed time: 12.7557s
+| (30/100):   elapsed time: 13.1945s
+| (31/100):   elapsed time: 13.6325s
+| (32/100):   elapsed time: 14.0719s
+| (33/100):   elapsed time: 14.5111s
+| (34/100):   elapsed time: 14.9502s
+| (35/100):   elapsed time: 15.3879s
+| (36/100):   elapsed time: 15.8268s
+| (37/100):   elapsed time: 16.2648s
+| (38/100):   elapsed time: 16.7041s
+| (39/100):   elapsed time: 17.1416s
+| (40/100):   elapsed time: 17.58s
+| (41/100):   elapsed time: 18.0176s
+| (42/100):   elapsed time: 18.4561s
+| (43/100):   elapsed time: 18.9021s
+| (44/100):   elapsed time: 19.3409s
+| (45/100):   elapsed time: 19.7789s
+| (46/100):   elapsed time: 20.2176s
+| (47/100):   elapsed time: 20.6563s
+| (48/100):   elapsed time: 21.0949s
+| (49/100):   elapsed time: 21.5337s
+| (50/100):   elapsed time: 21.9729s
+| (51/100):   elapsed time: 22.4115s
+| (52/100):   elapsed time: 22.8504s
+| (53/100):   elapsed time: 23.288s
+| (54/100):   elapsed time: 23.7271s
+| (55/100):   elapsed time: 24.165s
+| (56/100):   elapsed time: 24.6038s
+| (57/100):   elapsed time: 25.0417s
+| (58/100):   elapsed time: 25.4803s
+| (59/100):   elapsed time: 25.9234s
+| (60/100):   elapsed time: 26.365s
+| (61/100):   elapsed time: 26.8026s
+| (62/100):   elapsed time: 27.245s
+| (63/100):   elapsed time: 27.6855s
+| (64/100):   elapsed time: 28.1247s
+| (65/100):   elapsed time: 28.569s
+| (66/100):   elapsed time: 29.0173s
+| (67/100):   elapsed time: 29.4553s
+| (68/100):   elapsed time: 29.8943s
+| (69/100):   elapsed time: 30.3346s
+| (70/100):   elapsed time: 30.7755s
+| (71/100):   elapsed time: 31.2133s
+| (72/100):   elapsed time: 31.6519s
+| (73/100):   elapsed time: 32.0894s
+| (74/100):   elapsed time: 32.5279s
+| (75/100):   elapsed time: 32.9653s
+| (76/100):   elapsed time: 33.4039s
+| (77/100):   elapsed time: 33.8433s
+| (78/100):   elapsed time: 34.2827s
+| (79/100):   elapsed time: 34.7206s
+| (80/100):   elapsed time: 35.1594s
+| (81/100):   elapsed time: 35.5972s
+| (82/100):   elapsed time: 36.0363s
+| (83/100):   elapsed time: 36.4744s
+| (84/100):   elapsed time: 36.9138s
+| (85/100):   elapsed time: 37.3526s
+| (86/100):   elapsed time: 37.7919s
+| (87/100):   elapsed time: 38.2313s
+| (88/100):   elapsed time: 38.6702s
+| (89/100):   elapsed time: 39.1097s
+| (90/100):   elapsed time: 39.5517s
+| (91/100):   elapsed time: 39.9894s
+| (92/100):   elapsed time: 40.4459s
+| (93/100):   elapsed time: 40.8934s
+| (94/100):   elapsed time: 41.3322s
+| (95/100):   elapsed time: 41.779s
+| (96/100):   elapsed time: 42.2176s
+| (97/100):   elapsed time: 42.6558s
+| (98/100):   elapsed time: 43.0945s
+| (99/100):   elapsed time: 43.5325s
+======================================================
+finished computation at Mon Oct 30 14:52:00 2023
+total elapsed time: 43.9713s
+======================================================
+started saving output at Mon Oct 30 14:52:00 2023
+finished saving output at Mon Oct 30 14:52:16 2023
+======================================================
+
+real	1m19.657s
+user	3m23.500s
+sys	0m1.695s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 10000
+|| Generations: 100
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/turingmachine.life
+======================================================
+started saving intial state at Mon Oct 30 14:52:18 2023
+finished saving intial state at Mon Oct 30 14:52:22 2023
+======================================================
+started computation at Mon Oct 30 14:52:22 2023
+======================================================
+| (1/100):   elapsed time: 0.116997s
+| (2/100):   elapsed time: 0.228798s
+| (3/100):   elapsed time: 0.34004s
+| (4/100):   elapsed time: 0.451768s
+| (5/100):   elapsed time: 0.562897s
+| (6/100):   elapsed time: 0.673835s
+| (7/100):   elapsed time: 0.784701s
+| (8/100):   elapsed time: 0.911194s
+| (9/100):   elapsed time: 1.02244s
+| (10/100):   elapsed time: 1.13885s
+| (11/100):   elapsed time: 1.2523s
+| (12/100):   elapsed time: 1.36414s
+| (13/100):   elapsed time: 1.47552s
+| (14/100):   elapsed time: 1.58626s
+| (15/100):   elapsed time: 1.6981s
+| (16/100):   elapsed time: 1.81004s
+| (17/100):   elapsed time: 1.92102s
+| (18/100):   elapsed time: 2.03168s
+| (19/100):   elapsed time: 2.14248s
+| (20/100):   elapsed time: 2.2572s
+| (21/100):   elapsed time: 2.36873s
+| (22/100):   elapsed time: 2.47989s
+| (23/100):   elapsed time: 2.59091s
+| (24/100):   elapsed time: 2.70215s
+| (25/100):   elapsed time: 2.81379s
+| (26/100):   elapsed time: 2.92578s
+| (27/100):   elapsed time: 3.03694s
+| (28/100):   elapsed time: 3.14818s
+| (29/100):   elapsed time: 3.25971s
+| (30/100):   elapsed time: 3.37049s
+| (31/100):   elapsed time: 3.48182s
+| (32/100):   elapsed time: 3.59308s
+| (33/100):   elapsed time: 3.70388s
+| (34/100):   elapsed time: 3.81711s
+| (35/100):   elapsed time: 3.92788s
+| (36/100):   elapsed time: 4.03908s
+| (37/100):   elapsed time: 4.14994s
+| (38/100):   elapsed time: 4.26085s
+| (39/100):   elapsed time: 4.37197s
+| (40/100):   elapsed time: 4.48319s
+| (41/100):   elapsed time: 4.59387s
+| (42/100):   elapsed time: 4.70501s
+| (43/100):   elapsed time: 4.81568s
+| (44/100):   elapsed time: 4.92668s
+| (45/100):   elapsed time: 5.03734s
+| (46/100):   elapsed time: 5.14936s
+| (47/100):   elapsed time: 5.26115s
+| (48/100):   elapsed time: 5.37212s
+| (49/100):   elapsed time: 5.48318s
+| (50/100):   elapsed time: 5.59417s
+| (51/100):   elapsed time: 5.70534s
+| (52/100):   elapsed time: 5.81633s
+| (53/100):   elapsed time: 5.92732s
+| (54/100):   elapsed time: 6.03826s
+| (55/100):   elapsed time: 6.14966s
+| (56/100):   elapsed time: 6.26166s
+| (57/100):   elapsed time: 6.37271s
+| (58/100):   elapsed time: 6.48424s
+| (59/100):   elapsed time: 6.59546s
+| (60/100):   elapsed time: 6.70668s
+| (61/100):   elapsed time: 6.81806s
+| (62/100):   elapsed time: 6.92917s
+| (63/100):   elapsed time: 7.04019s
+| (64/100):   elapsed time: 7.15134s
+| (65/100):   elapsed time: 7.26345s
+| (66/100):   elapsed time: 7.37479s
+| (67/100):   elapsed time: 7.48636s
+| (68/100):   elapsed time: 7.5977s
+| (69/100):   elapsed time: 7.70909s
+| (70/100):   elapsed time: 7.81993s
+| (71/100):   elapsed time: 7.93094s
+| (72/100):   elapsed time: 8.04189s
+| (73/100):   elapsed time: 8.1531s
+| (74/100):   elapsed time: 8.26423s
+| (75/100):   elapsed time: 8.37556s
+| (76/100):   elapsed time: 8.48872s
+| (77/100):   elapsed time: 8.60125s
+| (78/100):   elapsed time: 8.71296s
+| (79/100):   elapsed time: 8.82452s
+| (80/100):   elapsed time: 8.93596s
+| (81/100):   elapsed time: 9.04706s
+| (82/100):   elapsed time: 9.15818s
+| (83/100):   elapsed time: 9.26966s
+| (84/100):   elapsed time: 9.38101s
+| (85/100):   elapsed time: 9.49253s
+| (86/100):   elapsed time: 9.60371s
+| (87/100):   elapsed time: 9.71505s
+| (88/100):   elapsed time: 9.82606s
+| (89/100):   elapsed time: 9.93713s
+| (90/100):   elapsed time: 10.0483s
+| (91/100):   elapsed time: 10.1597s
+| (92/100):   elapsed time: 10.2718s
+| (93/100):   elapsed time: 10.383s
+| (94/100):   elapsed time: 10.4943s
+| (95/100):   elapsed time: 10.6054s
+| (96/100):   elapsed time: 10.7165s
+| (97/100):   elapsed time: 10.8275s
+| (98/100):   elapsed time: 10.9543s
+| (99/100):   elapsed time: 11.0659s
+======================================================
+finished computation at Mon Oct 30 14:52:33 2023
+total elapsed time: 11.1775s
+======================================================
+started saving output at Mon Oct 30 14:52:33 2023
+finished saving output at Mon Oct 30 14:52:37 2023
+======================================================
+
+real	0m20.659s
+user	0m51.811s
+sys	0m0.649s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 5000
+|| Generations: 100
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/turingmachine.life
+======================================================
+started saving intial state at Mon Oct 30 14:52:38 2023
+finished saving intial state at Mon Oct 30 14:52:39 2023
+======================================================
+started computation at Mon Oct 30 14:52:39 2023
+======================================================
+| (1/100):   elapsed time: 0.0310552s
+| (2/100):   elapsed time: 0.0595919s
+| (3/100):   elapsed time: 0.0880869s
+| (4/100):   elapsed time: 0.116511s
+| (5/100):   elapsed time: 0.14489s
+| (6/100):   elapsed time: 0.173228s
+| (7/100):   elapsed time: 0.201652s
+| (8/100):   elapsed time: 0.230087s
+| (9/100):   elapsed time: 0.258558s
+| (10/100):   elapsed time: 0.287005s
+| (11/100):   elapsed time: 0.315459s
+| (12/100):   elapsed time: 0.343911s
+| (13/100):   elapsed time: 0.372308s
+| (14/100):   elapsed time: 0.40178s
+| (15/100):   elapsed time: 0.430325s
+| (16/100):   elapsed time: 0.458785s
+| (17/100):   elapsed time: 0.487202s
+| (18/100):   elapsed time: 0.515675s
+| (19/100):   elapsed time: 0.544112s
+| (20/100):   elapsed time: 0.572482s
+| (21/100):   elapsed time: 0.600909s
+| (22/100):   elapsed time: 0.62927s
+| (23/100):   elapsed time: 0.657696s
+| (24/100):   elapsed time: 0.689284s
+| (25/100):   elapsed time: 0.721209s
+| (26/100):   elapsed time: 0.754963s
+| (27/100):   elapsed time: 0.797667s
+| (28/100):   elapsed time: 0.841943s
+| (29/100):   elapsed time: 0.875768s
+| (30/100):   elapsed time: 0.920679s
+| (31/100):   elapsed time: 0.960177s
+| (32/100):   elapsed time: 0.992246s
+| (33/100):   elapsed time: 1.22313s
+| (34/100):   elapsed time: 1.25123s
+| (35/100):   elapsed time: 1.27945s
+| (36/100):   elapsed time: 1.30724s
+| (37/100):   elapsed time: 1.33501s
+| (38/100):   elapsed time: 1.36286s
+| (39/100):   elapsed time: 1.39105s
+| (40/100):   elapsed time: 1.41885s
+| (41/100):   elapsed time: 1.44667s
+| (42/100):   elapsed time: 1.4746s
+| (43/100):   elapsed time: 1.50258s
+| (44/100):   elapsed time: 1.53044s
+| (45/100):   elapsed time: 1.55845s
+| (46/100):   elapsed time: 1.58631s
+| (47/100):   elapsed time: 1.61408s
+| (48/100):   elapsed time: 1.64195s
+| (49/100):   elapsed time: 1.66992s
+| (50/100):   elapsed time: 1.69792s
+| (51/100):   elapsed time: 1.72569s
+| (52/100):   elapsed time: 1.75342s
+| (53/100):   elapsed time: 1.78136s
+| (54/100):   elapsed time: 1.80938s
+| (55/100):   elapsed time: 1.83724s
+| (56/100):   elapsed time: 1.86506s
+| (57/100):   elapsed time: 1.89279s
+| (58/100):   elapsed time: 1.92083s
+| (59/100):   elapsed time: 1.94874s
+| (60/100):   elapsed time: 1.97649s
+| (61/100):   elapsed time: 2.00426s
+| (62/100):   elapsed time: 2.03223s
+| (63/100):   elapsed time: 2.06002s
+| (64/100):   elapsed time: 2.08801s
+| (65/100):   elapsed time: 2.11573s
+| (66/100):   elapsed time: 2.1435s
+| (67/100):   elapsed time: 2.17142s
+| (68/100):   elapsed time: 2.19948s
+| (69/100):   elapsed time: 2.22728s
+| (70/100):   elapsed time: 2.2552s
+| (71/100):   elapsed time: 2.28298s
+| (72/100):   elapsed time: 2.31105s
+| (73/100):   elapsed time: 2.3389s
+| (74/100):   elapsed time: 2.36691s
+| (75/100):   elapsed time: 2.39468s
+| (76/100):   elapsed time: 2.42254s
+| (77/100):   elapsed time: 2.45029s
+| (78/100):   elapsed time: 2.47828s
+| (79/100):   elapsed time: 2.50625s
+| (80/100):   elapsed time: 2.53397s
+| (81/100):   elapsed time: 2.56166s
+| (82/100):   elapsed time: 2.58941s
+| (83/100):   elapsed time: 2.61736s
+| (84/100):   elapsed time: 2.64535s
+| (85/100):   elapsed time: 2.67321s
+| (86/100):   elapsed time: 2.70096s
+| (87/100):   elapsed time: 2.72891s
+| (88/100):   elapsed time: 2.7569s
+| (89/100):   elapsed time: 2.78467s
+| (90/100):   elapsed time: 2.81246s
+| (91/100):   elapsed time: 2.84034s
+| (92/100):   elapsed time: 2.86834s
+| (93/100):   elapsed time: 2.89632s
+| (94/100):   elapsed time: 2.92409s
+| (95/100):   elapsed time: 2.9518s
+| (96/100):   elapsed time: 2.97959s
+| (97/100):   elapsed time: 3.00757s
+| (98/100):   elapsed time: 3.03553s
+| (99/100):   elapsed time: 3.06334s
+======================================================
+finished computation at Mon Oct 30 14:52:42 2023
+total elapsed time: 3.09118s
+======================================================
+started saving output at Mon Oct 30 14:52:42 2023
+finished saving output at Mon Oct 30 14:52:43 2023
+======================================================
+
+real	0m5.708s
+user	0m14.261s
+sys	0m0.206s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 1000
+|| Generations: 100
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/sawtooth.life
+======================================================
+started saving intial state at Mon Oct 30 14:52:43 2023
+finished saving intial state at Mon Oct 30 14:52:43 2023
+======================================================
+started computation at Mon Oct 30 14:52:43 2023
+======================================================
+| (1/100):   elapsed time: 0.00250125s
+| (2/100):   elapsed time: 0.00363147s
+| (3/100):   elapsed time: 0.00479022s
+| (4/100):   elapsed time: 0.00591628s
+| (5/100):   elapsed time: 0.00701669s
+| (6/100):   elapsed time: 0.00813813s
+| (7/100):   elapsed time: 0.00926103s
+| (8/100):   elapsed time: 0.0103684s
+| (9/100):   elapsed time: 0.0114718s
+| (10/100):   elapsed time: 0.0126243s
+| (11/100):   elapsed time: 0.0138257s
+| (12/100):   elapsed time: 0.0150461s
+| (13/100):   elapsed time: 0.0161942s
+| (14/100):   elapsed time: 0.0173084s
+| (15/100):   elapsed time: 0.0184163s
+| (16/100):   elapsed time: 0.0195199s
+| (17/100):   elapsed time: 0.0206282s
+| (18/100):   elapsed time: 0.0217351s
+| (19/100):   elapsed time: 0.0228511s
+| (20/100):   elapsed time: 0.0239724s
+| (21/100):   elapsed time: 0.0250935s
+| (22/100):   elapsed time: 0.0262024s
+| (23/100):   elapsed time: 0.0273075s
+| (24/100):   elapsed time: 0.0284412s
+| (25/100):   elapsed time: 0.0296334s
+| (26/100):   elapsed time: 0.0307448s
+| (27/100):   elapsed time: 0.0319049s
+| (28/100):   elapsed time: 0.0330573s
+| (29/100):   elapsed time: 0.0341737s
+| (30/100):   elapsed time: 0.035287s
+| (31/100):   elapsed time: 0.0364217s
+| (32/100):   elapsed time: 0.0375356s
+| (33/100):   elapsed time: 0.038651s
+| (34/100):   elapsed time: 0.0397581s
+| (35/100):   elapsed time: 0.0408908s
+| (36/100):   elapsed time: 0.0420458s
+| (37/100):   elapsed time: 0.0431635s
+| (38/100):   elapsed time: 0.0443031s
+| (39/100):   elapsed time: 0.0454415s
+| (40/100):   elapsed time: 0.04656s
+| (41/100):   elapsed time: 0.0476647s
+| (42/100):   elapsed time: 0.0487824s
+| (43/100):   elapsed time: 0.0498952s
+| (44/100):   elapsed time: 0.0510002s
+| (45/100):   elapsed time: 0.0521366s
+| (46/100):   elapsed time: 0.0532469s
+| (47/100):   elapsed time: 0.0543671s
+| (48/100):   elapsed time: 0.0554907s
+| (49/100):   elapsed time: 0.056608s
+| (50/100):   elapsed time: 0.057716s
+| (51/100):   elapsed time: 0.0588197s
+| (52/100):   elapsed time: 0.0599482s
+| (53/100):   elapsed time: 0.0610764s
+| (54/100):   elapsed time: 0.0623634s
+| (55/100):   elapsed time: 0.0634698s
+| (56/100):   elapsed time: 0.0645793s
+| (57/100):   elapsed time: 0.0656877s
+| (58/100):   elapsed time: 0.0667977s
+| (59/100):   elapsed time: 0.0679056s
+| (60/100):   elapsed time: 0.0690705s
+| (61/100):   elapsed time: 0.0702071s
+| (62/100):   elapsed time: 0.0713182s
+| (63/100):   elapsed time: 0.0724248s
+| (64/100):   elapsed time: 0.0735348s
+| (65/100):   elapsed time: 0.0746575s
+| (66/100):   elapsed time: 0.075781s
+| (67/100):   elapsed time: 0.0771053s
+| (68/100):   elapsed time: 0.07828s
+| (69/100):   elapsed time: 0.0793894s
+| (70/100):   elapsed time: 0.0805235s
+| (71/100):   elapsed time: 0.081639s
+| (72/100):   elapsed time: 0.0827456s
+| (73/100):   elapsed time: 0.0838612s
+| (74/100):   elapsed time: 0.0850598s
+| (75/100):   elapsed time: 0.0861933s
+| (76/100):   elapsed time: 0.0873571s
+| (77/100):   elapsed time: 0.0887205s
+| (78/100):   elapsed time: 0.089983s
+| (79/100):   elapsed time: 0.0911106s
+| (80/100):   elapsed time: 0.0922557s
+| (81/100):   elapsed time: 0.0933614s
+| (82/100):   elapsed time: 0.0944714s
+| (83/100):   elapsed time: 0.09563s
+| (84/100):   elapsed time: 0.0967703s
+| (85/100):   elapsed time: 0.0978744s
+| (86/100):   elapsed time: 0.0989777s
+| (87/100):   elapsed time: 0.100117s
+| (88/100):   elapsed time: 0.10126s
+| (89/100):   elapsed time: 0.102412s
+| (90/100):   elapsed time: 0.103543s
+| (91/100):   elapsed time: 0.104686s
+| (92/100):   elapsed time: 0.105793s
+| (93/100):   elapsed time: 0.106897s
+| (94/100):   elapsed time: 0.108059s
+| (95/100):   elapsed time: 0.109171s
+| (96/100):   elapsed time: 0.110281s
+| (97/100):   elapsed time: 0.111399s
+| (98/100):   elapsed time: 0.112517s
+| (99/100):   elapsed time: 0.11363s
+======================================================
+finished computation at Mon Oct 30 14:52:43 2023
+total elapsed time: 0.114765s
+======================================================
+started saving output at Mon Oct 30 14:52:43 2023
+finished saving output at Mon Oct 30 14:52:44 2023
+======================================================
+
+real	0m0.522s
+user	0m0.579s
+sys	0m0.034s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 750
+|| Generations: 100
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/ArrayGlider-100.life
+======================================================
+started saving intial state at Mon Oct 30 14:52:44 2023
+finished saving intial state at Mon Oct 30 14:52:44 2023
+======================================================
+started computation at Mon Oct 30 14:52:44 2023
+======================================================
+| (1/100):   elapsed time: 0.00164425s
+| (2/100):   elapsed time: 0.00229961s
+| (3/100):   elapsed time: 0.00291095s
+| (4/100):   elapsed time: 0.003572s
+| (5/100):   elapsed time: 0.00419962s
+| (6/100):   elapsed time: 0.00480093s
+| (7/100):   elapsed time: 0.00542592s
+| (8/100):   elapsed time: 0.0060721s
+| (9/100):   elapsed time: 0.00668074s
+| (10/100):   elapsed time: 0.0072998s
+| (11/100):   elapsed time: 0.0079044s
+| (12/100):   elapsed time: 0.00856357s
+| (13/100):   elapsed time: 0.00920096s
+| (14/100):   elapsed time: 0.00997673s
+| (15/100):   elapsed time: 0.0107392s
+| (16/100):   elapsed time: 0.0115096s
+| (17/100):   elapsed time: 0.0121295s
+| (18/100):   elapsed time: 0.0127691s
+| (19/100):   elapsed time: 0.0133976s
+| (20/100):   elapsed time: 0.0140704s
+| (21/100):   elapsed time: 0.0146813s
+| (22/100):   elapsed time: 0.0153001s
+| (23/100):   elapsed time: 0.0159043s
+| (24/100):   elapsed time: 0.0165297s
+| (25/100):   elapsed time: 0.017153s
+| (26/100):   elapsed time: 0.0177607s
+| (27/100):   elapsed time: 0.018391s
+| (28/100):   elapsed time: 0.0190141s
+| (29/100):   elapsed time: 0.0196172s
+| (30/100):   elapsed time: 0.0202395s
+| (31/100):   elapsed time: 0.0208781s
+| (32/100):   elapsed time: 0.0215136s
+| (33/100):   elapsed time: 0.0221343s
+| (34/100):   elapsed time: 0.0227741s
+| (35/100):   elapsed time: 0.0234128s
+| (36/100):   elapsed time: 0.024081s
+| (37/100):   elapsed time: 0.0246805s
+| (38/100):   elapsed time: 0.0253105s
+| (39/100):   elapsed time: 0.025917s
+| (40/100):   elapsed time: 0.0265435s
+| (41/100):   elapsed time: 0.0271612s
+| (42/100):   elapsed time: 0.027762s
+| (43/100):   elapsed time: 0.0283783s
+| (44/100):   elapsed time: 0.0290062s
+| (45/100):   elapsed time: 0.0296155s
+| (46/100):   elapsed time: 0.0302518s
+| (47/100):   elapsed time: 0.0308529s
+| (48/100):   elapsed time: 0.0315072s
+| (49/100):   elapsed time: 0.0321278s
+| (50/100):   elapsed time: 0.0327378s
+| (51/100):   elapsed time: 0.0333531s
+| (52/100):   elapsed time: 0.0339847s
+| (53/100):   elapsed time: 0.0345939s
+| (54/100):   elapsed time: 0.035224s
+| (55/100):   elapsed time: 0.0358328s
+| (56/100):   elapsed time: 0.036464s
+| (57/100):   elapsed time: 0.0370926s
+| (58/100):   elapsed time: 0.0376935s
+| (59/100):   elapsed time: 0.038333s
+| (60/100):   elapsed time: 0.0389709s
+| (61/100):   elapsed time: 0.0395752s
+| (62/100):   elapsed time: 0.0402153s
+| (63/100):   elapsed time: 0.0408153s
+| (64/100):   elapsed time: 0.0414326s
+| (65/100):   elapsed time: 0.0420734s
+| (66/100):   elapsed time: 0.0426798s
+| (67/100):   elapsed time: 0.0433029s
+| (68/100):   elapsed time: 0.0439055s
+| (69/100):   elapsed time: 0.0445269s
+| (70/100):   elapsed time: 0.0451498s
+| (71/100):   elapsed time: 0.0457971s
+| (72/100):   elapsed time: 0.0464267s
+| (73/100):   elapsed time: 0.0470701s
+| (74/100):   elapsed time: 0.0476747s
+| (75/100):   elapsed time: 0.04829s
+| (76/100):   elapsed time: 0.0489018s
+| (77/100):   elapsed time: 0.0495166s
+| (78/100):   elapsed time: 0.050145s
+| (79/100):   elapsed time: 0.0507521s
+| (80/100):   elapsed time: 0.051369s
+| (81/100):   elapsed time: 0.0519983s
+| (82/100):   elapsed time: 0.0526004s
+| (83/100):   elapsed time: 0.0532262s
+| (84/100):   elapsed time: 0.0538363s
+| (85/100):   elapsed time: 0.0544641s
+| (86/100):   elapsed time: 0.0550908s
+| (87/100):   elapsed time: 0.0556906s
+| (88/100):   elapsed time: 0.0563119s
+| (89/100):   elapsed time: 0.0569358s
+| (90/100):   elapsed time: 0.0575554s
+| (91/100):   elapsed time: 0.0581886s
+| (92/100):   elapsed time: 0.0587913s
+| (93/100):   elapsed time: 0.0594111s
+| (94/100):   elapsed time: 0.0600425s
+| (95/100):   elapsed time: 0.0606579s
+| (96/100):   elapsed time: 0.0613708s
+| (97/100):   elapsed time: 0.0619968s
+| (98/100):   elapsed time: 0.0626038s
+| (99/100):   elapsed time: 0.0632202s
+======================================================
+finished computation at Mon Oct 30 14:52:44 2023
+total elapsed time: 0.0638664s
+======================================================
+started saving output at Mon Oct 30 14:52:44 2023
+finished saving output at Mon Oct 30 14:52:44 2023
+======================================================
+
+real	0m0.422s
+user	0m0.340s
+sys	0m0.036s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 500
+|| Generations: 100
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/ArrayGlider-100.life
+======================================================
+started saving intial state at Mon Oct 30 14:52:44 2023
+finished saving intial state at Mon Oct 30 14:52:44 2023
+======================================================
+started computation at Mon Oct 30 14:52:44 2023
+======================================================
+| (1/100):   elapsed time: 0.020248s
+| (2/100):   elapsed time: 0.0205365s
+| (3/100):   elapsed time: 0.0208068s
+| (4/100):   elapsed time: 0.0211103s
+| (5/100):   elapsed time: 0.0213799s
+| (6/100):   elapsed time: 0.0216489s
+| (7/100):   elapsed time: 0.021917s
+| (8/100):   elapsed time: 0.0222073s
+| (9/100):   elapsed time: 0.0224808s
+| (10/100):   elapsed time: 0.022755s
+| (11/100):   elapsed time: 0.0230582s
+| (12/100):   elapsed time: 0.0233294s
+| (13/100):   elapsed time: 0.0236005s
+| (14/100):   elapsed time: 0.0238694s
+| (15/100):   elapsed time: 0.0242117s
+| (16/100):   elapsed time: 0.0244828s
+| (17/100):   elapsed time: 0.0247504s
+| (18/100):   elapsed time: 0.0250401s
+| (19/100):   elapsed time: 0.0253079s
+| (20/100):   elapsed time: 0.0255823s
+| (21/100):   elapsed time: 0.0258552s
+| (22/100):   elapsed time: 0.0262035s
+| (23/100):   elapsed time: 0.0264944s
+| (24/100):   elapsed time: 0.0267853s
+| (25/100):   elapsed time: 0.0270929s
+| (26/100):   elapsed time: 0.0273623s
+| (27/100):   elapsed time: 0.02763s
+| (28/100):   elapsed time: 0.0279037s
+| (29/100):   elapsed time: 0.0281939s
+| (30/100):   elapsed time: 0.0284634s
+| (31/100):   elapsed time: 0.0287367s
+| (32/100):   elapsed time: 0.0290295s
+| (33/100):   elapsed time: 0.0292974s
+| (34/100):   elapsed time: 0.0295706s
+| (35/100):   elapsed time: 0.0298394s
+| (36/100):   elapsed time: 0.0301313s
+| (37/100):   elapsed time: 0.0304011s
+| (38/100):   elapsed time: 0.0306715s
+| (39/100):   elapsed time: 0.0309394s
+| (40/100):   elapsed time: 0.0312264s
+| (41/100):   elapsed time: 0.0314994s
+| (42/100):   elapsed time: 0.0317683s
+| (43/100):   elapsed time: 0.0320635s
+| (44/100):   elapsed time: 0.0323331s
+| (45/100):   elapsed time: 0.032604s
+| (46/100):   elapsed time: 0.0328729s
+| (47/100):   elapsed time: 0.0331649s
+| (48/100):   elapsed time: 0.0334344s
+| (49/100):   elapsed time: 0.0337021s
+| (50/100):   elapsed time: 0.0339904s
+| (51/100):   elapsed time: 0.0342582s
+| (52/100):   elapsed time: 0.0345324s
+| (53/100):   elapsed time: 0.0348039s
+| (54/100):   elapsed time: 0.0350969s
+| (55/100):   elapsed time: 0.0353666s
+| (56/100):   elapsed time: 0.035639s
+| (57/100):   elapsed time: 0.0359071s
+| (58/100):   elapsed time: 0.0361947s
+| (59/100):   elapsed time: 0.0364627s
+| (60/100):   elapsed time: 0.0367386s
+| (61/100):   elapsed time: 0.0370358s
+| (62/100):   elapsed time: 0.0373053s
+| (63/100):   elapsed time: 0.0375762s
+| (64/100):   elapsed time: 0.0378489s
+| (65/100):   elapsed time: 0.0381357s
+| (66/100):   elapsed time: 0.0384046s
+| (67/100):   elapsed time: 0.0386761s
+| (68/100):   elapsed time: 0.0389451s
+| (69/100):   elapsed time: 0.0392302s
+| (70/100):   elapsed time: 0.0395035s
+| (71/100):   elapsed time: 0.0397712s
+| (72/100):   elapsed time: 0.0400745s
+| (73/100):   elapsed time: 0.0403455s
+| (74/100):   elapsed time: 0.0406177s
+| (75/100):   elapsed time: 0.0408905s
+| (76/100):   elapsed time: 0.0411885s
+| (77/100):   elapsed time: 0.0414565s
+| (78/100):   elapsed time: 0.0417295s
+| (79/100):   elapsed time: 0.0420165s
+| (80/100):   elapsed time: 0.0422855s
+| (81/100):   elapsed time: 0.042558s
+| (82/100):   elapsed time: 0.0428275s
+| (83/100):   elapsed time: 0.0431133s
+| (84/100):   elapsed time: 0.0433823s
+| (85/100):   elapsed time: 0.0436532s
+| (86/100):   elapsed time: 0.0439265s
+| (87/100):   elapsed time: 0.0442134s
+| (88/100):   elapsed time: 0.0444862s
+| (89/100):   elapsed time: 0.044755s
+| (90/100):   elapsed time: 0.0450448s
+| (91/100):   elapsed time: 0.0453144s
+| (92/100):   elapsed time: 0.0455875s
+| (93/100):   elapsed time: 0.0458553s
+| (94/100):   elapsed time: 0.0461428s
+| (95/100):   elapsed time: 0.0464107s
+| (96/100):   elapsed time: 0.0466919s
+| (97/100):   elapsed time: 0.0469832s
+| (98/100):   elapsed time: 0.0472525s
+| (99/100):   elapsed time: 0.0475227s
+======================================================
+finished computation at Mon Oct 30 14:52:44 2023
+total elapsed time: 0.047792s
+======================================================
+started saving output at Mon Oct 30 14:52:44 2023
+finished saving output at Mon Oct 30 14:52:45 2023
+======================================================
+
+real	0m0.688s
+user	0m0.232s
+sys	0m0.033s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 250
+|| Generations: 100
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/ArrayGlider-100.life
+======================================================
+started saving intial state at Mon Oct 30 14:52:45 2023
+finished saving intial state at Mon Oct 30 14:52:45 2023
+======================================================
+started computation at Mon Oct 30 14:52:45 2023
+======================================================
+| (1/100):   elapsed time: 0.00019708s
+| (2/100):   elapsed time: 0.000276058s
+| (3/100):   elapsed time: 0.000344887s
+| (4/100):   elapsed time: 0.000413486s
+| (5/100):   elapsed time: 0.000481944s
+| (6/100):   elapsed time: 0.000550443s
+| (7/100):   elapsed time: 0.000618591s
+| (8/100):   elapsed time: 0.00068708s
+| (9/100):   elapsed time: 0.000755508s
+| (10/100):   elapsed time: 0.000858321s
+| (11/100):   elapsed time: 0.00092706s
+| (12/100):   elapsed time: 0.000999205s
+| (13/100):   elapsed time: 0.00106817s
+| (14/100):   elapsed time: 0.00113665s
+| (15/100):   elapsed time: 0.00120489s
+| (16/100):   elapsed time: 0.0012733s
+| (17/100):   elapsed time: 0.00134152s
+| (18/100):   elapsed time: 0.00140992s
+| (19/100):   elapsed time: 0.00148069s
+| (20/100):   elapsed time: 0.00155146s
+| (21/100):   elapsed time: 0.00162036s
+| (22/100):   elapsed time: 0.00168867s
+| (23/100):   elapsed time: 0.00175716s
+| (24/100):   elapsed time: 0.00199051s
+| (25/100):   elapsed time: 0.00206306s
+| (26/100):   elapsed time: 0.0021316s
+| (27/100):   elapsed time: 0.00219999s
+| (28/100):   elapsed time: 0.00226837s
+| (29/100):   elapsed time: 0.00234533s
+| (30/100):   elapsed time: 0.00241385s
+| (31/100):   elapsed time: 0.00248223s
+| (32/100):   elapsed time: 0.00255052s
+| (33/100):   elapsed time: 0.0026188s
+| (34/100):   elapsed time: 0.00268716s
+| (35/100):   elapsed time: 0.00275524s
+| (36/100):   elapsed time: 0.00284604s
+| (37/100):   elapsed time: 0.00291462s
+| (38/100):   elapsed time: 0.002983s
+| (39/100):   elapsed time: 0.00305184s
+| (40/100):   elapsed time: 0.00312013s
+| (41/100):   elapsed time: 0.0031883s
+| (42/100):   elapsed time: 0.00325661s
+| (43/100):   elapsed time: 0.00332535s
+| (44/100):   elapsed time: 0.00340319s
+| (45/100):   elapsed time: 0.00349978s
+| (46/100):   elapsed time: 0.00356825s
+| (47/100):   elapsed time: 0.00363604s
+| (48/100):   elapsed time: 0.00370384s
+| (49/100):   elapsed time: 0.00377158s
+| (50/100):   elapsed time: 0.00420055s
+| (51/100):   elapsed time: 0.00426863s
+| (52/100):   elapsed time: 0.00433647s
+| (53/100):   elapsed time: 0.00440396s
+| (54/100):   elapsed time: 0.00447181s
+| (55/100):   elapsed time: 0.00454482s
+| (56/100):   elapsed time: 0.00461261s
+| (57/100):   elapsed time: 0.00468079s
+| (58/100):   elapsed time: 0.00474853s
+| (59/100):   elapsed time: 0.00484726s
+| (60/100):   elapsed time: 0.00491892s
+| (61/100):   elapsed time: 0.00498738s
+| (62/100):   elapsed time: 0.00505511s
+| (63/100):   elapsed time: 0.00512292s
+| (64/100):   elapsed time: 0.00519074s
+| (65/100):   elapsed time: 0.00525862s
+| (66/100):   elapsed time: 0.00533647s
+| (67/100):   elapsed time: 0.00540499s
+| (68/100):   elapsed time: 0.00547271s
+| (69/100):   elapsed time: 0.00554038s
+| (70/100):   elapsed time: 0.00560811s
+| (71/100):   elapsed time: 0.00567576s
+| (72/100):   elapsed time: 0.00574345s
+| (73/100):   elapsed time: 0.00583123s
+| (74/100):   elapsed time: 0.00589984s
+| (75/100):   elapsed time: 0.00596804s
+| (76/100):   elapsed time: 0.00603645s
+| (77/100):   elapsed time: 0.0061047s
+| (78/100):   elapsed time: 0.00617307s
+| (79/100):   elapsed time: 0.00624138s
+| (80/100):   elapsed time: 0.00630976s
+| (81/100):   elapsed time: 0.00637809s
+| (82/100):   elapsed time: 0.00644841s
+| (83/100):   elapsed time: 0.00654767s
+| (84/100):   elapsed time: 0.00661578s
+| (85/100):   elapsed time: 0.00670125s
+| (86/100):   elapsed time: 0.0067711s
+| (87/100):   elapsed time: 0.00685887s
+| (88/100):   elapsed time: 0.006927s
+| (89/100):   elapsed time: 0.00699471s
+| (90/100):   elapsed time: 0.00706247s
+| (91/100):   elapsed time: 0.00713014s
+| (92/100):   elapsed time: 0.00720826s
+| (93/100):   elapsed time: 0.00727607s
+| (94/100):   elapsed time: 0.00735327s
+| (95/100):   elapsed time: 0.00743465s
+| (96/100):   elapsed time: 0.00752478s
+| (97/100):   elapsed time: 0.0075955s
+| (98/100):   elapsed time: 0.00766332s
+| (99/100):   elapsed time: 0.00773101s
+======================================================
+finished computation at Mon Oct 30 14:52:45 2023
+total elapsed time: 0.00779871s
+======================================================
+started saving output at Mon Oct 30 14:52:45 2023
+finished saving output at Mon Oct 30 14:52:45 2023
+======================================================
+
+real	0m0.375s
+user	0m0.077s
+sys	0m0.037s
+======================================================
+||                 Cellular Automata                ||
+======================================================
+|| Mode: 1                  (1 -> array, 2 -> hash) 
+|| Array Size: 10
+|| Generations: 100
+|| Survival Conditions: 23
+|| Birth Conditions: 3
+|| File Location: resources/ArrayGlider-100.life
+======================================================
+started saving intial state at Mon Oct 30 14:52:45 2023
+finished saving intial state at Mon Oct 30 14:52:45 2023
+======================================================
+started computation at Mon Oct 30 14:52:45 2023
+======================================================
+| (1/100):   elapsed time: 0.000449354s
+| (2/100):   elapsed time: 0.000463861s
+| (3/100):   elapsed time: 0.000466666s
+| (4/100):   elapsed time: 0.00046895s
+| (5/100):   elapsed time: 0.000471175s
+| (6/100):   elapsed time: 0.000473268s
+| (7/100):   elapsed time: 0.000475382s
+| (8/100):   elapsed time: 0.000477436s
+| (9/100):   elapsed time: 0.00047957s
+| (10/100):   elapsed time: 0.000481684s
+| (11/100):   elapsed time: 0.000483848s
+| (12/100):   elapsed time: 0.000485982s
+| (13/100):   elapsed time: 0.000488247s
+| (14/100):   elapsed time: 0.000490441s
+| (15/100):   elapsed time: 0.000492675s
+| (16/100):   elapsed time: 0.000494879s
+| (17/100):   elapsed time: 0.000497133s
+| (18/100):   elapsed time: 0.000499377s
+| (19/100):   elapsed time: 0.000501602s
+| (20/100):   elapsed time: 0.000503866s
+| (21/100):   elapsed time: 0.000506731s
+| (22/100):   elapsed time: 0.000508935s
+| (23/100):   elapsed time: 0.00051136s
+| (24/100):   elapsed time: 0.000513815s
+| (25/100):   elapsed time: 0.000515979s
+| (26/100):   elapsed time: 0.000518193s
+| (27/100):   elapsed time: 0.000520347s
+| (28/100):   elapsed time: 0.000522481s
+| (29/100):   elapsed time: 0.000524635s
+| (30/100):   elapsed time: 0.000526739s
+| (31/100):   elapsed time: 0.000528873s
+| (32/100):   elapsed time: 0.000530997s
+| (33/100):   elapsed time: 0.000533542s
+| (34/100):   elapsed time: 0.000535636s
+| (35/100):   elapsed time: 0.00053779s
+| (36/100):   elapsed time: 0.000540094s
+| (37/100):   elapsed time: 0.000542098s
+| (38/100):   elapsed time: 0.000544142s
+| (39/100):   elapsed time: 0.000546256s
+| (40/100):   elapsed time: 0.000548319s
+| (41/100):   elapsed time: 0.000550373s
+| (42/100):   elapsed time: 0.000552477s
+| (43/100):   elapsed time: 0.000554621s
+| (44/100):   elapsed time: 0.000556665s
+| (45/100):   elapsed time: 0.000559029s
+| (46/100):   elapsed time: 0.000561153s
+| (47/100):   elapsed time: 0.000563458s
+| (48/100):   elapsed time: 0.000565812s
+| (49/100):   elapsed time: 0.000568016s
+| (50/100):   elapsed time: 0.00057016s
+| (51/100):   elapsed time: 0.000572224s
+| (52/100):   elapsed time: 0.000574438s
+| (53/100):   elapsed time: 0.000576572s
+| (54/100):   elapsed time: 0.000578757s
+| (55/100):   elapsed time: 0.000580911s
+| (56/100):   elapsed time: 0.000583055s
+| (57/100):   elapsed time: 0.000585549s
+| (58/100):   elapsed time: 0.000587723s
+| (59/100):   elapsed time: 0.000589887s
+| (60/100):   elapsed time: 0.000592001s
+| (61/100):   elapsed time: 0.000594095s
+| (62/100):   elapsed time: 0.000596209s
+| (63/100):   elapsed time: 0.000598313s
+| (64/100):   elapsed time: 0.000600417s
+| (65/100):   elapsed time: 0.000602571s
+| (66/100):   elapsed time: 0.000604715s
+| (67/100):   elapsed time: 0.000606869s
+| (68/100):   elapsed time: 0.000609053s
+| (69/100):   elapsed time: 0.000611428s
+| (70/100):   elapsed time: 0.000613572s
+| (71/100):   elapsed time: 0.000615916s
+| (72/100):   elapsed time: 0.00061804s
+| (73/100):   elapsed time: 0.000620174s
+| (74/100):   elapsed time: 0.000622358s
+| (75/100):   elapsed time: 0.000624472s
+| (76/100):   elapsed time: 0.000626566s
+| (77/100):   elapsed time: 0.00062873s
+| (78/100):   elapsed time: 0.000630864s
+| (79/100):   elapsed time: 0.000632978s
+| (80/100):   elapsed time: 0.000635152s
+| (81/100):   elapsed time: 0.000637577s
+| (82/100):   elapsed time: 0.000639701s
+| (83/100):   elapsed time: 0.000641805s
+| (84/100):   elapsed time: 0.000643949s
+| (85/100):   elapsed time: 0.000646093s
+| (86/100):   elapsed time: 0.000648277s
+| (87/100):   elapsed time: 0.000650411s
+| (88/100):   elapsed time: 0.000652595s
+| (89/100):   elapsed time: 0.000654709s
+| (90/100):   elapsed time: 0.000656853s
+| (91/100):   elapsed time: 0.000658987s
+| (92/100):   elapsed time: 0.000661161s
+| (93/100):   elapsed time: 0.000663846s
+| (94/100):   elapsed time: 0.00066596s
+| (95/100):   elapsed time: 0.000668174s
+| (96/100):   elapsed time: 0.000670278s
+| (97/100):   elapsed time: 0.000672432s
+| (98/100):   elapsed time: 0.000674546s
+| (99/100):   elapsed time: 0.00067666s
+======================================================
+finished computation at Mon Oct 30 14:52:45 2023
+total elapsed time: 0.000678794s
+======================================================
+started saving output at Mon Oct 30 14:52:45 2023
+finished saving output at Mon Oct 30 14:52:45 2023
+======================================================
+
+real	0m0.080s
+user	0m0.026s
+sys	0m0.029s
